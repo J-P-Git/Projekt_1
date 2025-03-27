@@ -1,6 +1,7 @@
 """
 projekt_1: první projekt do Engeto Akademie
 author: Jakub Prokeš
+email: prokesjakub.ctf@gmail.com
 discord: jpctf
 """
 
